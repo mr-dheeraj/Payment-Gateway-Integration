@@ -75,7 +75,6 @@ img{
 
 .background{
 	background:rgba(0, 0, 0, 0.4) url('enviro.jpg');
-	background-attachment: fixed;
 	background-size:cover;
 	background-repeat: no-repeat;
 	background-blend-mode:darken;
